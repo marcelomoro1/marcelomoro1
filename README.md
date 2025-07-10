@@ -1,4 +1,4 @@
-##  Marcelo Moro | Desenvolvedor Full Stack em formação
+##  Marcelo Moro | Desenvolvedor 
 
 Atualmente cursando o **5º semestre de Sistemas de Informação**, estou me especializando em tecnologias modernas como **Spring Boot**, **React**, **TypeScript** e **MySQL**. Tenho interesse tanto no **backend** quanto no **frontend**, buscando sempre desenvolver soluções limpas, escaláveis e bem estruturadas.
 
