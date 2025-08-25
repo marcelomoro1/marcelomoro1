@@ -6,7 +6,7 @@ Atualmente cursando o **6º semestre de Sistemas de Informação**, estou me esp
 Tenho experiência prática com **arquitetura em camadas** (MVC, DTOs, Services, Repository), **autenticação JWT**, **criação e consumo de APIs RESTful**, além de **integração eficiente entre frontend e backend**.  
 Meus projetos demonstram domínio em sistemas **responsivos** e uso de ferramentas modernas como **React Query**, **Context API**, **Vite** e **CSS Modules**.
 
-Além da parte técnica, também trago bagagem administrativa, com experiência anterior em **análise de dados**, **controle de estoque** e **apoio à gestão operacional**, o que contribui para uma visão mais estratégica dos projetos que desenvolvo.
+Além da parte técnica, também trago bagagem administrativa, com experiência anterior na área administrativa em **análise de dados**, **controle de estoque** e **apoio à gestão operacional**, o que contribui para uma visão mais estratégica dos projetos que desenvolvo.
 
 ###
 
