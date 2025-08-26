@@ -1,10 +1,9 @@
 
 <h2 align="left">Marcelo Moro | Desenvolvedor</h2>
 
-Atualmente cursando o **6º semestre de Sistemas de Informação**, estou me especializando em tecnologias como **Spring Boot**, **React**, **TypeScript** e **MySQL**. Tenho interesse tanto no **backend** quanto no **frontend**, buscando sempre desenvolver soluções limpas, escaláveis e bem estruturadas.
+Atualmente cursando o **6º semestre de Sistemas de Informação**, estou me especializando em tecnologias como **Spring Boot**, **React**, **TypeScript** e **MySQL**. Tenho interesse tanto no **backend** quanto no **frontend**, buscando sempre desenvolver soluções limpas, escaláveis e estruturadas.
 
-Tenho experiência prática com **arquitetura em camadas** (MVC, DTOs, Services, Repository), **autenticação JWT**, **criação e consumo de APIs RESTful**, além de **integração eficiente entre frontend e backend**.  
-Meus projetos demonstram domínio em sistemas **responsivos** e uso de ferramentas modernas como **React Query**, **Context API**, **Vite** e **CSS Modules**.
+Tenho experiência prática com **arquitetura em camadas** (MVC, DTOs, Services, Repository), **autenticação JWT**, **criação e consumo de APIs RESTful**, além de **integração entre frontend e backend**.  
 
 Além da parte técnica, também trago bagagem administrativa, com experiência anterior na área administrativa em **análise de dados**, **controle de estoque** e **apoio à gestão operacional**, o que contribui para uma visão mais estratégica dos projetos que desenvolvo.
 
